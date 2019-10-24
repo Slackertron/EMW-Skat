@@ -1,0 +1,16 @@
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.deps.json
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.runtimeconfig.json
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.runtimeconfig.dev.json
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.dll
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\SkatTest.pdb
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\Skat.dll
+C:\Users\emilm\source\repos\SkatTest\bin\Debug\netcoreapp2.1\Skat.pdb
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.csprojAssemblyReference.cache
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.AssemblyInfoInputs.cache
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.AssemblyInfo.cs
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.csproj.CopyComplete
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.dll
+C:\Users\emilm\source\repos\SkatTest\obj\Debug\netcoreapp2.1\SkatTest.pdb
